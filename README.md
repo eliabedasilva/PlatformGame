@@ -1,5 +1,5 @@
 # PlatformGame
 
-Um simple jogo de plataforma com python e pygame
+Um simples jogo de plataforma com python e pygame
 
 !!Estado: Inical!!
